@@ -6,6 +6,11 @@ import cv2
 import numpy as np
 import torch
 import mediapipe as mp
+
+# Add this line to manually fix the missing 'solutions' attribute:
+import mediapipe.python.solutions as solutions
+mp.solutions = solutions
+
 from PIL import Image
 import torchvision.transforms as transforms
 
