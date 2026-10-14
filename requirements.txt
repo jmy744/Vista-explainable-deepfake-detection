@@ -1,0 +1,13 @@
+numpy==1.26.4
+torch==2.5.1
+torchvision==0.20.1
+torch-geometric==2.6.1
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+protobuf==4.25.8
+streamlit==1.41.1
+matplotlib==3.9.4
+Pillow==11.1.0
+graphviz==0.20.3
+jax==0.4.35
+jaxlib==0.4.35

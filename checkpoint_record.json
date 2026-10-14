@@ -1,0 +1,12 @@
+{
+  "source_sha256": "b4dd87821fe885bf888b3cb6449eaf0437394d3b37297e6049e376840820c3f9",
+  "inference_checkpoint_sha256": "56dbc5cbd4920d6db8a2d84ccd7abeff9462a1e6b4cb9d9bb7477c96ccfa7c4f",
+  "tensor_count": 246,
+  "all_tensors_identical": true,
+  "metadata": {
+    "epoch": 5,
+    "val_f1": 71.15384615384616,
+    "val_acc": 66.66666666666666
+  },
+  "note": "Optimizer state removed for smaller inference package; weights unchanged. Metadata is not independently reproduced performance."
+}

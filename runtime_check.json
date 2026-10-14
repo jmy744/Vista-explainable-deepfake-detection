@@ -1,0 +1,14 @@
+{
+  "checkpoint_strict_key_and_shape_check": "passed",
+  "mediapipe_initialization": "passed",
+  "synthetic_20_frame_forward_and_gradcam": "passed",
+  "visual_sensitivity": "passed",
+  "gat_coefficients": "passed",
+  "figure_export": "passed",
+  "seconds": 5.312723446000064,
+  "scope": "Synthetic input smoke check only. Not accuracy, real-video validation, or explanation faithfulness.",
+  "no_face_video_rejection": "passed",
+  "streamlit_initial_render": "passed: four tabs, no exceptions; checkpoint metadata shown",
+  "real_source_video_inference": "not run: uploaded video is an app screen recording",
+  "gpu_and_docker": "not tested; app configured for CPU"
+}
