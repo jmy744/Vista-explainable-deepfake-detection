@@ -1,11 +1,11 @@
-numpy>=1.26.4
-torch>=2.2.0
+streamlit
+numpy
+torch
 torchvision
 torch-geometric
-mediapipe==0.10.14
+mediapipe
 opencv-python-headless
 protobuf
-streamlit
 matplotlib
 Pillow
 jax
