@@ -2,7 +2,7 @@ numpy>=1.26.4
 torch>=2.2.0
 torchvision
 torch-geometric
-mediapipe
+mediapipe==0.10.14
 opencv-python-headless
 protobuf
 streamlit
