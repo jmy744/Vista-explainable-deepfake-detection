@@ -3,7 +3,7 @@ torch>=2.2.0
 torchvision
 torch-geometric
 mediapipe
-opencv-contrib-python-headless
+opencv-python-headless
 protobuf
 streamlit
 matplotlib
